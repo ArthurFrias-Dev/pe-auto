@@ -1,0 +1,6 @@
+{
+  "name": "PEÇAUTO - Gestão de Oficina",
+  "description": "Sistema premium desktop e mobile de gestão de ordens de serviço, peças, ordens  e faturamentos para oficinas mecânicas e autopeças parceiras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
